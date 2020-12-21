@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "iFIND Project"
+excerpt: "Intelligent fetal imaging and diagnosis for the second trimester screening examination<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project I led the technical aspects of AI enabled ultrasound translation into the clinic. [project site](http://www.ifindproject.com/)
