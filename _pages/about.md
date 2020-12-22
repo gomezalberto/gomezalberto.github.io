@@ -15,3 +15,7 @@ I moved to the UK to pursue a PhD at [King's College London](https://www.kcl.ac.
 My current research interests include decreasing user-variation on ultrasound imaging, assisting less experienced operators in answering clinical questions using ultrasound more effectively, and reconstructing compact anatomical and functional representations of anatomy from multi-view ultrasound sequences.
 
 The rest of the time, I enjoy being with my family, making coffee, and running.
+
+# CV 
+
+My cv (Dec 2020) can be downloaded [here](files/cv.pdf).
