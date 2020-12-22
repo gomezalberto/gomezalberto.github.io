@@ -1,9 +1,8 @@
 ---
 layout: archive
-title: "Research lines and Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
-author.googlescholar: true
 ---
 
 {% include base_path %}
