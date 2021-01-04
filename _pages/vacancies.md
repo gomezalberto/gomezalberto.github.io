@@ -8,4 +8,4 @@ redirect_from:
 
 
 
-There is a post-doc position available in my group. Please apply [here](https://tinyurl.com/ai-cardiac-us). For an informal discussion, please get in touch.
+There is a post-doc position available in my group. Please apply [here](https://tinyurl.com/ai-cardiac-us). For an informal discussion, please get in touch by email on alberto.gomez at kcl.ac.uk.
