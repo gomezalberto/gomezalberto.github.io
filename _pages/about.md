@@ -18,4 +18,4 @@ The rest of the time, I enjoy being with my family, making coffee, and running.
 
 # CV 
 
-My cv (Nov 2020) can be downloaded [here](http://gomezalberto.github.io/files/cv.pdf).
+My cv (updated Jan 2021) can be downloaded [here](http://gomezalberto.github.io/files/cv.pdf).
