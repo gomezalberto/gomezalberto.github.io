@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Dr Alberto Gomez"
+title                    : "Alberto Gomez, PhD"
 title_separator          : "-"
 name                     : &name "Alberto Gomez"
 description              : &description "Research Fellow on Smart Ultrasound Imaging"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/10kXU6Di7b6Ar/bibliography/public/"
   googlescholar    : "https://scholar.google.co.uk/citations?user=T4fP_swAAAAJ&hl=es"
-  email            :
+  email            : "alberto.gomez@kcl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
