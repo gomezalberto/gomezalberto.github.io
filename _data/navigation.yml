@@ -18,8 +18,8 @@ main:
 #  - title: "CV"
 #    url: /cv/
 
-#  - title: "Software"
-#    url: /software/
+  - title: "Software"
+    url: /software/
 
 #  - title: "Outside work"
 #    url: /personal/
